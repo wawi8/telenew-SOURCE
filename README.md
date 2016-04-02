@@ -20,7 +20,7 @@ chmod +x launch.sh
 
 ### Realm configuration
 
-After you run the bot for first time, send it `!id`. Get your ID and stop the bot.
+After you run the bot for first time, send it `id`. Get your ID and stop the bot.
 
 Open ./data/config.lua and add your ID to the "sudo_users" section in the following format:
 ```
